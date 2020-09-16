@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "firebase init --project social-892fb",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
